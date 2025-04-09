@@ -4,4 +4,5 @@ class AppImages {
 
   static const String intro1 = '${basePath}intro1$format';
   static const String intro2 = '${basePath}intro2$format';
+  static const String intro3 = '${basePath}intro3$format';
 }

@@ -46,7 +46,10 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^5.0.0
   flutter_svg: ^2.0.17
-
+  flutter_bloc: ^9.1.0
+  hydrated_bloc: ^10.0.0
+  path_provider: ^2.1.5
+  
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
